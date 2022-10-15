@@ -6,6 +6,6 @@ Some issues that can arise when working with medieval music and its data can be 
 ## Week 2: Notation Basics
 Here is the link to a short segment of the sheet music for "Ave Maris Stella", a medieval hymn written in the 9th century. 
 
-"LINK"
+https://olliecargill.github.io/MCA-2022/verovio.html
 
 I converted this from PDF format to MuseScore using Optical Music Recognition Software. I corrected a few mistakes that the OMR technology made when converting the PDF. 
