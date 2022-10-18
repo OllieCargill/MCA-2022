@@ -10,4 +10,13 @@ For week 3's task, I exported this MuseScore file into MusicXML and MEI, and the
 
 [Weeks 2 & 3 Task](https://olliecargill.github.io/MCA-2022/verovio.html)
 
+## Week 4: Computational Analytics of Notated Music
+For this week's task, I generated a jSymbolic analysis of Ave Maris Stella. I selected a number of features to analyse which I thought would be the most interesting to look at and opened these in an Excel file to view them. Here is a screenshot of the Excel file showing the jSymbolic analysis.
+
+![image](https://user-images.githubusercontent.com/113993414/196448758-d6ff0f61-f380-433b-bbcd-861b34e01853.png)
+
+I then created a piano roll and pitch histogram of the piece using music21. Here are the findings:
+
+SCREENSHOTS OF THESE HERE, ASK ABOUT HOW TO DO THIS IN WEEK 5.
+
 
