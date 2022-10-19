@@ -36,9 +36,11 @@
             <p>In MusicXML, clefs are represented by the <i>clef</i> element. A child element known as <i>sign</i> is required in order to specify the type of clef that is going to be used. The parent element of <i>clef</i> known as <i>attributes</i> is required. This element concerns musical elements like key signatures, time signatures and clefs. Clefs in MusicXML will automatically be added to the default position (the start of the stave), unless stated otherwise with an attribute. Using the <i>additional</i> attribute will allow you to add clef in a non-standard position, or add another clef on the same line of music. The <i>additional</i> attribute will be set to <i>yes</i>.</p>   
             <h4><u>MEI</u></h4>
             <p>In MEI, the <i>clef</i> element is used specifically in the cases where you want to use a non-standard clef position, multiple clefs on a single stave, or you want the clef to have a specific size or colour. If using this attribute to change the clef size, the constraints are that the clef's position must be equal to or less than the number of lines on the stave. If a standard clef is required, then one would use the <i>staff</i> element's clef attribute. Unlike MusicXML where you use the <i>clef</i> element regardless.</p>
-            <h2 style="color:green;"><u>Note</u></h2>
+            <h2 style="color:green;"><u>Pedal</u></h2>
             <h4><u>Music XML</u></h4>
+            <p>In MusicXML, the <i>pedal</i> element is used when one wants to include a piano pedal mark on the notation. This element is used only for sostenuto and damper pedals, because the soft pedal is represented by words and not by a symbol. The <i>pedal-type</i> attribute is required in order to specify which type of pedal is to be used (sostenuto or damper) or if there needs to be a pedal lift for example.</p>
             <h4><u>MEI</u></h4></div>
+            <p></p>
     <div id="app">Verovio is loading...</div>
     <script type="module">
         import 'https://www.verovio.org/javascript/app/verovio-app.js';
