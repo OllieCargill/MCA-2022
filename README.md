@@ -20,6 +20,11 @@ I then created a piano roll and pitch histogram of the piece using music21. Here
 SCREENSHOTS OF THESE HERE, ASK ABOUT HOW TO DO THIS IN WEEK 5.
 
 ## Week 5: Standards in Curation
-For this week's task, I added metadata to my MEI file. The link to verovio for week 2 and 3's tasks will show the added metadata. The first element I chose to add was a title using the <i>title</i> element.  
+For this week's task, I added metadata to my MEI file. The link to verovio for week 2 and 3's tasks will show the added metadata. 
+The first element I chose to add was a title using the <i>title</i> element.  
+The second element I chose to add was a subtitle. I used the <i>title</i> element with the <i>type="subtitle"</i> attribute.
+The third element I chose to add
+The fourth element I chose to add
+The final element I chose to add
 
 
