@@ -19,11 +19,25 @@ This is the link to the rendered MEI file of Ave Maris Stella using Verovio - my
 [Weeks 2 & 3 Task](https://olliecargill.github.io/MCA-2022/verovio.html)
 
 ## Week 4: Computational Analytics of Notated Music
-For this week's task, I generated a jSymbolic analysis of Ave Maris Stella. I selected a number of features to analyse which I thought would be the most interesting to look at and opened these in an Excel file to view them. Here is a screenshot of the Excel file showing the jSymbolic analysis.
+For this week's task, I generated a jSymbolic analysis of Ave Maris Stella. I selected a number of features to analyse and opened these in an Excel file to view them. Here is a screenshot of the Excel file showing the jSymbolic analysis.
 
 ![image](https://user-images.githubusercontent.com/113993414/196448758-d6ff0f61-f380-433b-bbcd-861b34e01853.png)
 
-Here are the findings: (make a table with findings)
+Here are the findings:
+
+Feature ¦ Value
+-----------------
+Number of pitches ¦ 28
+Number of pitch classes ¦ 12
+Range ¦ 31
+Strong tonal pitches ¦ 1
+Mean pitch ¦ 60.92
+Mean pitch class ¦ 5.198
+Most common pitch ¦ 62 
+Most common pitch class ¦ 2
+Interval between most prevelant pitches ¦ 5
+Pitch variability ¦ 6.927
+Most common melodic interval ¦ 2
 
 Stuff about what I find interesting about the results.
 
