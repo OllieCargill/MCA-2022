@@ -39,7 +39,7 @@ Interval between most prevelant pitches | 5
 Pitch variability | 6.927
 Most common melodic interval | 2
 
-Stuff about what I find interesting about the results.
+From these findings I know that the most common pitch is a D4, as the MIDI value for D4 is 62. 
 
 I then created a piano roll and pitch histogram of the piece using music21. Here are the findings:
 
