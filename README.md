@@ -27,17 +27,17 @@ Here are the findings:
 
 Feature ¦ Value
 -----------------
-Number of pitches ¦ 28
-Number of pitch classes ¦ 12
-Range ¦ 31
-Strong tonal pitches ¦ 1
-Mean pitch ¦ 60.92
-Mean pitch class ¦ 5.198
-Most common pitch ¦ 62 
-Most common pitch class ¦ 2
-Interval between most prevelant pitches ¦ 5
-Pitch variability ¦ 6.927
-Most common melodic interval ¦ 2
+Number of pitches¦28
+Number of pitch classes¦12
+Range¦31
+Strong tonal pitches¦1
+Mean pitch¦60.92
+Mean pitch class¦5.198
+Most common pitch¦62 
+Most common pitch class¦2
+Interval between most prevelant pitches¦5
+Pitch variability¦6.927
+Most common melodic interval¦2
 
 Stuff about what I find interesting about the results.
 
