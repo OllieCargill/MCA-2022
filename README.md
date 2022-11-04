@@ -6,7 +6,9 @@ Some issues that can arise when working with medieval music and its data can be 
 ## Week 2 & 3: Notation Basics & Encoding Basics for Notation
 For week 2's task, I converted a PDF file of the sheet music for the medieval hymn "Ave Maris Stella" in to MuseScore. I then corrected any mistakes that the technology made in the conversion process.
 
-For week 3's task, I exported this MuseScore file into MusicXML and MEI, and then rendered the MEI file using Verovio. This is the link to the rendered MEI file of Ave Maris Stella using Verovio - my answers to the week 3 questions are also on this page.
+For week 3's task, I exported this MuseScore file into MusicXML and MEI, and then rendered the MEI file using Verovio.
+Here is the [MusicXML file](https://github.com/OllieCargill/MCA-2022/blob/master/Ave_Maris_Stella.musicxml)
+This is the link to the rendered MEI file of Ave Maris Stella using Verovio - my answers to the week 3 questions are also on this page.
 
 [Weeks 2 & 3 Task](https://olliecargill.github.io/MCA-2022/verovio.html)
 
