@@ -26,7 +26,7 @@ For this week's task, I generated a jSymbolic analysis of Ave Maris Stella. I se
 Here are the findings:
 
 Feature | Value
------------------
+------- | -------
 Number of pitches | 28
 Number of pitch classes | 12
 Range | 31
