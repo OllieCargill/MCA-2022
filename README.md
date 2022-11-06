@@ -30,7 +30,7 @@ Feature | Value
 Number of pitches | 28
 Number of pitch classes | 12
 Range | 31
-Strong tonal pitches | 1
+Strong tonal centres | 1
 Mean pitch | 60.92
 Mean pitch class | 5.198
 Most common pitch | 62 
