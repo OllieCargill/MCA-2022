@@ -41,17 +41,17 @@ Most common melodic interval | 2
 
 From these findings I know that the most common pitch is a D4, as the MIDI value for D4 is 62. 
 
-I then created a piano roll, scattergraph and pitch histogram of the piece using music21. 
+I then created a piano roll, scatterplot and pitch histogram of the piece using music21. 
 
-# Piano roll
+### Piano roll
 
 <img src="pianoroll.png" width="640" height="426">
 
-# Scattergraph
+### Scatterplot
 
-<img src="scattergraph.png" width="640" height="426">
+<img src="scatterplot.png" width="640" height="426">
 
-# Pitch histogram
+### Pitch histogram
 
 <img src="pitchhistogram.png" width="640" height="426">
 
