@@ -64,5 +64,46 @@ The third element I chose to add was author.
 The fourth element I chose to add was composer.
 The final element I chose to add
 
+## Week 7: Challenges to Music Curation
+
+## Week 8: Music as Sound
+
+The three tracks I have selected are from the album <i>Thirteenth-Century Polyphony (Early Medieval Music)</i> available from: https://archive.org/details/lp_thirteenth-century-polyphony-early-medieva_archibald-t-davison-willi-apel-the-univers/disc1/02.05.+Aucun+%E2%80%92+Lonc+Tans+%E2%80%92+Annuntiantes+(de+Cruce).mp3
+
+I selected the tracks titled <i>Hec Dies (Organum), Aucun - Lonc Tans - Annuntiantes (de Cruce) and Monophonic Dances: Danse Royale; Danse Royale; English Dance.</i>
+I selected these tracks because...
+
+### Hec Dies
+
+#### Waveform
+
+![image](HecDiesWaveform.png)
+
+#### Spectrogram
+
+![image](HecDiesSpectrogram.png)
+
+### Aucun
+
+#### Waveform
+
+![image](AucunWaveform.png)
+
+#### Spectrogram
+
+![image](AucunSpectrogram.png)
+
+### Monophonic Dances
+
+#### Waveform
+
+![image](MonophonicWaveform.png)
+
+#### Spectrogram
+
+![image](MonophoniceSpectrogram.png)
+
+
+
 
 
