@@ -81,7 +81,7 @@ I selected these tracks because...
 
 #### Spectrogram
 
-![image](HecDiesSpectrogram.png)
+![image](HecDiesSpectogram.png)
 
 ### Aucun
 
@@ -97,11 +97,11 @@ I selected these tracks because...
 
 #### Waveform
 
-![image](MonophonicWaveform.png)
+![image](MonophonicDancesWaveform.png)
 
 #### Spectrogram
 
-![image](MonophoniceSpectrogram.png)
+![image](MonophoniceDancesSpectrogram.png)
 
 
 
