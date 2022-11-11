@@ -101,7 +101,7 @@ I selected these tracks because...
 
 #### Spectrogram
 
-![image](MonophoniceDancesSpectrogram.png)
+![image](MonophonicDancesSpectrogram.png)
 
 
 
