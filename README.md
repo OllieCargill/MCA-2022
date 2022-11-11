@@ -39,7 +39,7 @@ Interval between most prevelant pitches | 5
 Pitch variability | 6.927
 Most common melodic interval | 2
 
-From these findings I know that the most common pitch is a D4, as the MIDI value for D4 is 62. This is reflected in the pitch histogram further down, which also shows that D4 is the most common pitch. 
+From these findings I know that the most common pitch is a D4, as the MIDI value for D4 is 62. This is reflected in the pitch histogram further down, which also shows that D4 is the most common pitch. MORE HERE
 
 I then created a piano roll, scatterplot and pitch histogram of the piece using music21. 
 
@@ -47,13 +47,19 @@ I then created a piano roll, scatterplot and pitch histogram of the piece using 
 
 <img src="pianoroll.png" width="640" height="426">
 
+This shows...
+
 ### Scatterplot
 
 <img src="scatterplot.png" width="640" height="426">
 
+This shows...
+
 ### Pitch histogram
 
 <img src="pitchhistogram.png" width="640" height="426">
+
+This shows...
 
 
 ## Week 5: Standards in Curation
@@ -75,33 +81,95 @@ I selected these tracks because...
 
 ### Hec Dies
 
+#### Metadata
+
+Feature | Value
+------- | ------
+Title | Hec Dies (Organum)
+Artist | 
+Composer |
+Copyright Info |
+Genre |
+Source |
+File/Audio Format | mp3
+Number of Channels |
+Sample Rate |
+Bits per Second |
+Duration |
+
 #### Waveform
 
 ![image](HecDiesWaveform.png)
+
+This shows...
 
 #### Spectrogram
 
 ![image](HecDiesSpectogram.png)
 
+This shows...
+
 ### Aucun
+
+#### Metadata
+
+Feature | Value
+------- | ------
+Title | Aucun - Lonc Tans - Annuntiantes (de Cruce)
+Artist | 
+Composer |
+Copyright Info |
+Genre |
+Source |
+File/Audio Format | mp3
+Number of Channels |
+Sample Rate |
+Bits per Second |
+Duration |
 
 #### Waveform
 
 ![image](AucunWaveform.png)
 
+This shows...
+
 #### Spectrogram
 
 ![image](AucunSpectrogram.png)
 
+This shows...
+
 ### Monophonic Dances
+
+#### Metadata
+
+Feature | Value
+------- | ------
+Title | Monophonic Dances: Danse Royale; Danse Royale; English Dance
+Artist | 
+Composer |
+Copyright Info |
+Genre |
+Source |
+File/Audio Format | mp3
+Number of Channels |
+Sample Rate |
+Bits per Second |
+Duration |
 
 #### Waveform
 
 ![image](MonophonicDancesWaveform.png)
 
+This shows...
+
 #### Spectrogram
 
 ![image](MonophonicDancesSpectrogram.png)
+
+This shows...
+
+One advantage of a time-frequency analysis over a waveform-based analysis is...
 
 
 
