@@ -95,7 +95,7 @@ File/Audio Format | mp3
 Number of Channels |
 Sample Rate |
 Bits per Second |
-Duration |
+Duration | 00:30
 
 #### Waveform
 
@@ -125,7 +125,7 @@ File/Audio Format | mp3
 Number of Channels |
 Sample Rate |
 Bits per Second |
-Duration |
+Duration | 00:30
 
 #### Waveform
 
@@ -155,7 +155,7 @@ File/Audio Format | mp3
 Number of Channels |
 Sample Rate |
 Bits per Second |
-Duration |
+Duration | 00:30
 
 #### Waveform
 
