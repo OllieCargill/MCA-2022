@@ -16,7 +16,7 @@ Here is the [MusicXML file.](https://github.com/OllieCargill/MCA-2022/blob/maste
 
 This is the link to the rendered MEI file of Ave Maris Stella using Verovio - my answers to the week 3 questions are also on this page.
 
-[Weeks 2 & 3 Task](https://olliecargill.github.io/MCA-2022/verovio.html)
+[Weeks 3 Task](https://olliecargill.github.io/MCA-2022/verovio.html)
 
 ## Week 4: Computational Analytics of Notated Music
 For this week's task, I generated a jSymbolic analysis of Ave Maris Stella. I selected a number of features to analyse and opened these in an Excel file to view them. Here is a screenshot of the Excel file showing the jSymbolic analysis.
