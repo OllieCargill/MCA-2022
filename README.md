@@ -88,11 +88,11 @@ Feature | Value
 ------- | ------
 Title | Hec Dies (3-voice Organum)
 Artist | Steven Crockett, Robert Heinrickson, Roger Weiss
-Composer |
-Copyright Info |
+Composer | Leonin (unconfirmed)
+Copyright Info | ℗ 1975 Southern Illinois University Press
 Genre | Early Medeival, a cappella 
 Source | [archive.org](https://archive.org/details/lp_thirteenth-century-polyphony-early-medieva_archibald-t-davison-willi-apel-the-univers/disc1/01.13.+Hec+Dies+(3-voice+Organum).mp3)
-File/Audio Format | mp3
+File/Audio Format | mp3 (originally an LP)
 Number of Channels | 2
 Sample Rate | 48000Hz
 Bits per Second | 171kbps
@@ -114,11 +114,11 @@ Feature | Value
 ------- | ------
 Title | Aucun - Lonc Tans - Annuntiantes (de Cruce)
 Artist | Robert Heinrickson, Howard M. Brown, David Eisenbud
-Composer |
-Copyright Info |
+Composer | Petrus de Cruce
+Copyright Info | ℗ 1975 Southern Illinois University Press
 Genre | Early Medieval, song 
 Source | [archive.org](https://archive.org/details/lp_thirteenth-century-polyphony-early-medieva_archibald-t-davison-willi-apel-the-univers/disc1/02.05.+Aucun+%E2%80%92+Lonc+Tans+%E2%80%92+Annuntiantes+(de+Cruce).mp3)
-File/Audio Format | mp3
+File/Audio Format | mp3 (originally an LP)
 Number of Channels | 2
 Sample Rate | 48000Hz
 Bits per Second | 174kbps
@@ -140,11 +140,11 @@ Feature | Value
 ------- | ------
 Title | Monophonic Dances: Danse Royale; Danse Royale; English Dance
 Artist | Howard M. Brown, Benjamin Choi, Laurence Libin, Anne MacWilliams, Michael Shapiro, Helen Walker
-Composer |
-Copyright Info |
+Composer | Unknown
+Copyright Info | ℗ 1975 Southern Illinois University Press
 Genre | Early Medieval, Instrumental
 Source | [archive.org](https://archive.org/details/lp_thirteenth-century-polyphony-early-medieva_archibald-t-davison-willi-apel-the-univers/disc1/02.13.+Monophonic+Dances%3A+Danse+Royale%3B+Danse+Royale%3B+English+Dance.mp3)
-File/Audio Format | mp3
+File/Audio Format | mp3 (originally an LP)
 Number of Channels | 2
 Sample Rate | 48000Hz
 Bits per Second | 174kbps
