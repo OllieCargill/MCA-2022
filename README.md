@@ -47,13 +47,13 @@ I then created a piano roll, scatterplot and pitch histogram of the piece using 
 
 <img src="pianoroll.png" width="640" height="426">
 
-This shows...
+This is a piano roll of the first 10 bars or 30 notes of the piece. It shows the order of notes played (reading from left to right), the pitch of the note played (from the Y-axis) and the length of the note played (from the X-axis) over these first 10 bars. From this we can see that there are many A
 
 ### Scatterplot
 
 <img src="scatterplot.png" width="640" height="426">
 
-This shows...
+This scatterplot shows the relationship between the pitches in the piece and their lengths. From this we know that the most common note lengths are quarter notes (crotchets) and eighth notes (quavers). This is because the most plots are on the 0.5 and 1.0 values on the X-axis, which represents quarter length notes. The more transparent plots have fewer notes of that pitch that are that length. The more opaque the plot is, the more notes of that pitch are that length. 
 
 ### Pitch histogram
 
