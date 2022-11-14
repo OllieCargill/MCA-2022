@@ -78,8 +78,7 @@ The final element I chose to add
 
 The three tracks I have selected are from the album <i>Thirteenth-Century Polyphony (Early Medieval Music)</i> available from: https://archive.org/details/lp_thirteenth-century-polyphony-early-medieva_archibald-t-davison-willi-apel-the-univers/disc1/02.05.+Aucun+%E2%80%92+Lonc+Tans+%E2%80%92+Annuntiantes+(de+Cruce).mp3
 
-I selected the tracks titled <i>Hec Dies (3-voice Organum), Aucun - Lonc Tans - Annuntiantes (de Cruce) and Monophonic Dances: Danse Royale; Danse Royale; English Dance.</i>
-I selected these tracks because...
+I selected the tracks titled <i>Hec Dies (3-voice Organum), Aucun - Lonc Tans - Annuntiantes (de Cruce) and Monophonic Dances: Danse Royale; Danse Royale; English Dance.</i> I thought it would be interesting to see how an organum would look in SonicVisualiser compared to a monophonic piece, hence why I have selected these two specifically. The other piece was selected because it features both voice and nstrument, whereas the others feature solely instruments or solely voice. I thought it would be interesting to pick three varied pieces.  
 
 ### Hec Dies
 
@@ -88,28 +87,24 @@ I selected these tracks because...
 Feature | Value
 ------- | ------
 Title | Hec Dies (3-voice Organum)
-Artist | 
+Artist | Steven Crockett, Robert Heinrickson, Roger Weiss
 Composer |
 Copyright Info |
 Genre | Early Medeival, a cappella 
-Source |
+Source | [archive.org](https://archive.org/details/lp_thirteenth-century-polyphony-early-medieva_archibald-t-davison-willi-apel-the-univers/disc1/01.13.+Hec+Dies+(3-voice+Organum).mp3)
 File/Audio Format | mp3
-Number of Channels |
-Sample Rate |
-Bits per Second |
+Number of Channels | 2
+Sample Rate | 48000Hz
+Bits per Second | 171kbps
 Duration | 00:30
 
 #### Waveform
 
 ![image](HecDiesWaveform.png)
 
-This shows...
-
 #### Spectrogram
 
 ![image](HecDiesSpectogram.png)
-
-This shows...
 
 ### Aucun
 
@@ -118,28 +113,24 @@ This shows...
 Feature | Value
 ------- | ------
 Title | Aucun - Lonc Tans - Annuntiantes (de Cruce)
-Artist | 
+Artist | Robert Heinrickson, Howard M. Brown, David Eisenbud
 Composer |
 Copyright Info |
 Genre | Early Medieval, song 
-Source |
+Source | [archive.org](https://archive.org/details/lp_thirteenth-century-polyphony-early-medieva_archibald-t-davison-willi-apel-the-univers/disc1/02.05.+Aucun+%E2%80%92+Lonc+Tans+%E2%80%92+Annuntiantes+(de+Cruce).mp3)
 File/Audio Format | mp3
-Number of Channels |
-Sample Rate |
-Bits per Second |
+Number of Channels | 2
+Sample Rate | 48000Hz
+Bits per Second | 174kbps
 Duration | 00:30
 
 #### Waveform
 
 ![image](AucunWaveform.png)
 
-This shows...
-
 #### Spectrogram
 
 ![image](AucunSpectrogram.png)
-
-This shows...
 
 ### Monophonic Dances
 
@@ -148,28 +139,24 @@ This shows...
 Feature | Value
 ------- | ------
 Title | Monophonic Dances: Danse Royale; Danse Royale; English Dance
-Artist | 
+Artist | Howard M. Brown, Benjamin Choi, Laurence Libin, Anne MacWilliams, Michael Shapiro, Helen Walker
 Composer |
 Copyright Info |
 Genre | Early Medieval, Instrumental
-Source |
+Source | [archive.org](https://archive.org/details/lp_thirteenth-century-polyphony-early-medieva_archibald-t-davison-willi-apel-the-univers/disc1/02.13.+Monophonic+Dances%3A+Danse+Royale%3B+Danse+Royale%3B+English+Dance.mp3)
 File/Audio Format | mp3
-Number of Channels |
-Sample Rate |
-Bits per Second |
+Number of Channels | 2
+Sample Rate | 48000Hz
+Bits per Second | 174kbps
 Duration | 00:30
 
 #### Waveform
 
 ![image](MonophonicDancesWaveform.png)
 
-This shows...
-
 #### Spectrogram
 
 ![image](MonophonicDancesSpectrogram.png)
-
-This shows...
 
 One advantage of a time-frequency analysis over a waveform-based analysis is...
 
