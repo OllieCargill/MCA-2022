@@ -23,6 +23,8 @@ For this week's task, I generated a jSymbolic analysis of Ave Maris Stella. I se
 
 ![image](https://user-images.githubusercontent.com/113993414/196448758-d6ff0f61-f380-433b-bbcd-861b34e01853.png)
 
+Here is a link to the [csv file](Ave_Maris_Stella_jSymbolic_VALUES.csv)
+
 Here are the findings:
 
 Feature | Value
