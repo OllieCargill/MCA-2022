@@ -39,7 +39,7 @@ Interval between most prevelant pitches | 5
 Pitch variability | 6.927
 Most common melodic interval | 2
 
-From these findings I know that the most common pitch is a D4, as the MIDI value for D4 is 62. This is reflected in the pitch histogram further down, which also shows that D4 is the most common pitch. MORE HERE
+From these findings I know that the most common pitch is a D4, as the MIDI value for D4 is 62. This is reflected in the pitch histogram further down, which also shows that D4 is the most common pitch. We also know that there are 31 semitones between the highest and the lowest pitch in the piece, as demonstarted by the Range feature. We also know that the most common distance between two notes is 2 semitones. The 'most common melodic interval' feature tells us this.
 
 I then created a piano roll, scatterplot and pitch histogram of the piece using music21. 
 
@@ -47,13 +47,13 @@ I then created a piano roll, scatterplot and pitch histogram of the piece using 
 
 <img src="pianoroll.png" width="640" height="426">
 
-This is a piano roll of the first 10 bars or 30 notes of the piece. It shows the order of notes played (reading from left to right), the pitch of the note played (from the Y-axis) and the length of the note played (from the X-axis) over these first 10 bars. From this we can see that there are many A
+This is a piano roll of the first 10 bars or 30 notes of the piece. It shows the order of notes played (reading from left to right), the pitch of the note played (from the Y-axis) and the length of the note played (from the X-axis) over these first 10 bars. 
 
 ### Scatterplot
 
 <img src="scatterplot.png" width="640" height="426">
 
-This scatterplot shows the relationship between the pitches in the piece and their lengths. From this we know that the most common note lengths are quarter notes (crotchets) and eighth notes (quavers). This is because the most plots are on the 0.5 and 1.0 values on the X-axis, which represents quarter length notes. The more transparent plots have fewer notes of that pitch that are that length. The more opaque the plot is, the more notes of that pitch are that length. 
+This scatterplot shows the relationship between the pitches in the piece and their lengths. From this we know that the most common note lengths are quarter notes (crotchets) and eighth notes (quavers). This is because the most plots are on the 0.5 and 1.0 values on the X-axis, which represents quarter length notes. The more transparent plots have fewer notes of that pitch that are that length. The more opaque plots have many notes of that pitch are that length. 
 
 ### Pitch histogram
 
