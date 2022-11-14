@@ -142,7 +142,7 @@ Title | Monophonic Dances: Danse Royale; Danse Royale; English Dance
 Artist | Howard M. Brown, Benjamin Choi, Laurence Libin, Anne MacWilliams, Michael Shapiro, Helen Walker
 Composer | Unknown
 Copyright Info | ℗ 1975 Southern Illinois University Press
-Genre | Early Medieval, Instrumental
+Genre | Early Medieval, Instrumental, Dance
 Source | [archive.org](https://archive.org/details/lp_thirteenth-century-polyphony-early-medieva_archibald-t-davison-willi-apel-the-univers/disc1/02.13.+Monophonic+Dances%3A+Danse+Royale%3B+Danse+Royale%3B+English+Dance.mp3)
 File/Audio Format | mp3 (originally an LP)
 Number of Channels | 2
