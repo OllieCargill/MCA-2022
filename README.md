@@ -90,7 +90,7 @@ Title | Hec Dies (3-voice Organum)
 Artist | Steven Crockett, Robert Heinrickson, Roger Weiss
 Composer | Leonin (unconfirmed)
 Copyright Info | ℗ 1975 Southern Illinois University Press
-Genre | Early Medeival, a cappella 
+Genre | Early Medieval, a cappella 
 Source | [archive.org](https://archive.org/details/lp_thirteenth-century-polyphony-early-medieva_archibald-t-davison-willi-apel-the-univers/disc1/01.13.+Hec+Dies+(3-voice+Organum).mp3)
 File/Audio Format | mp3 (originally an LP)
 Number of Channels | 2
