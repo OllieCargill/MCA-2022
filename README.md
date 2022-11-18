@@ -188,6 +188,12 @@ For this week's task I selected three sample tracks from the album <i>Music for 
 [Chromagram](detristechromagram.csv)
 [MFCC](detristemfcc.csv)
 
+### Sumer is Icumin In
+
+#### Spectrogram, Chromagram and MFCC
+
+![image](week9sumer.png)
+
 
 
 
