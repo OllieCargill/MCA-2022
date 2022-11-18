@@ -170,7 +170,7 @@ For this week's task I selected three sample tracks from the album <i>Music for 
 ![image](DouceSpectrogram.png)
 
 #### Chromagram
-![image](DouceChromagram.png)
+![image](DouceChromogram.png)
 
 #### MFCC
 ![image](DouceMFCC.png)
