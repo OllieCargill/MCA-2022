@@ -164,11 +164,19 @@ One advantage of a time-frequency analysis over a waveform-based analysis is tha
 
 For this week's task I selected three sample tracks from the album <i>Music for a Medieval Day</i> available from [archive.org](https://archive.org/details/lp_music-for-a-medieval-day_alfonso-x-el-sabio-anonymous-guillaume-de/disc1/01.10.+Sumer+Is+Icumin+In.mp3) The tracks I have selected are: <i>Douce Dame Jolie</i>, <i>De Triste Cuer</i> and <i>Sumer is Icumin In</i>.
 
-### Spectrogram, Chromagram and MFCC
+### Douce Dame Jolie
 
-#### Douce Dame Jolie
+#### Spectrogram, Chromagram and MFCC
 
 ![image](week9douce.png)
+
+#### CSV files
+
+[Spectrogram](doucespectrogram.csv)
+[Chromagram](doucechromagram.csv)
+[MFCC](doucemfcc.csv)
+
+
 
 
 
