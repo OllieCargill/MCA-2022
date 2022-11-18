@@ -176,6 +176,18 @@ For this week's task I selected three sample tracks from the album <i>Music for 
 [Chromagram](doucechromagram.csv)
 [MFCC](doucemfcc.csv)
 
+### De Triste Cuer
+
+#### Spectrogram, Chromagram and MFCC
+
+![image](week9detriste.png)
+
+#### CSV files
+
+[Spectrogram](detristespectrogram.csv)
+[Chromagram](detristechromagram.csv)
+[MFCC](detristemfcc.csv)
+
 
 
 
