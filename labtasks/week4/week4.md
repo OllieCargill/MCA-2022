@@ -1,7 +1,7 @@
 ## Week 4: Computational Analytics of Notated Music
 For this week's task, I generated a jSymbolic analysis of Ave Maris Stella. I selected a number of features to analyse and opened these in an Excel file to view them. Here is a screenshot of the Excel file showing the jSymbolic analysis.
 
-![image](jsymbolic values.png)
+![image](jsymbolicvalues.png)
 
 Here is a link to the [csv file](Ave_Maris_Stella_jSymbolic_VALUES.csv)
 
