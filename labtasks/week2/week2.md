@@ -4,5 +4,5 @@ For week 2's task, I converted a PDF file of the sheet music for the medieval hy
 
 ![image](avemarisstella.png)
 
-Here is the link to the MuseScore file: ![MuseScore File](ave_maris_stella.mscz). I noticed a reccurring issue that arised when converting the PDF to Musescore. This was that the stems joining quavers together were sometimes broken instead of connected. The music is still readable and makes sense, so this is more of a stylistic issue.
+Here is the link to the MuseScore file: [MuseScore File](Ave_Maris_Stella.mscz). I noticed a reccurring issue that arised when converting the PDF to Musescore. This was that the stems joining quavers together were sometimes broken instead of connected. The music is still readable and makes sense, so this is more of a stylistic issue.
  
