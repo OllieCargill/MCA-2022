@@ -200,6 +200,29 @@ For this week's task I selected three sample tracks from the album <i>Music for 
 [Chromagram](sumerchromagram.csv)
 [MFCC](sumermfcc.csv)
 
+### Histograms 
+
+I then created histograms of the MFCCs, chromograms and spectrograms of each piece using Jupyter Notebooks. Here are the histograms:
+
+#### MFCCs
+
+![image](doucemfcchistogram.png)
+![image](detristemfcchistogram.png)
+![image](sumermfcchisogram.png)
+
+#### Chromagrams
+
+![image](doucechromagramhistogram.png)
+![image](detristechromagramhistorgram.png)
+![image](sumerchromagramhistogram.png)
+
+#### Spectrograms
+
+![image](doucespectrogramhistogram.png)
+![image](detristespectrogramhistogram.png)
+![image](sumerspectrogramhisogram.png)
+
+
 
 
 
