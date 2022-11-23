@@ -1,7 +1,7 @@
 ## Week 4: Computational Analytics of Notated Music
 For this week's task, I generated a jSymbolic analysis of Ave Maris Stella. I selected a number of features to analyse and opened these in an Excel file to view them. Here is a screenshot of the Excel file showing the jSymbolic analysis.
 
-![image](https://user-images.githubusercontent.com/113993414/196448758-d6ff0f61-f380-433b-bbcd-861b34e01853.png)
+![image](jsymbolic values.png)
 
 Here is a link to the [csv file](Ave_Maris_Stella_jSymbolic_VALUES.csv)
 
@@ -27,18 +27,18 @@ I then created a piano roll, scatterplot and pitch histogram of the piece using 
 
 ### Piano roll
 
-<img src="pianoroll.png" width="640" height="426">
+<img src="pianoroll.png">
 
 This is a piano roll of the first 10 bars or 30 notes of the piece. It shows the order of notes played (reading from left to right), the pitch of the note played (from the Y-axis) and the length of the note played (from the X-axis) over these first 10 bars. 
 
 ### Scatterplot
 
-<img src="scatterplot.png" width="640" height="426">
+<img src="scatterplot.png">
 
 This scatterplot shows the relationship between the pitches in the piece and their lengths. From this we know that the most common note lengths are quarter notes (crotchets) and eighth notes (quavers). This is because the most plots are on the 0.5 and 1.0 values on the X-axis, which represents quarter length notes. The more transparent plots have fewer notes of that pitch that are that length. The more opaque plots have many notes of that pitch are that length. 
 
 ### Pitch histogram
 
-<img src="pitchhistogram.png" width="640" height="426">
+<img src="pitchhistogram.png">
 
 This shows the number of pitches in the piece ranging from C3 to G5. From this histogram, we can determine that there are 30 A3s for example. We can also see that there are many Gs, As, Ds and Cs, so this could give us a good indication of the key of the piece which we know is C major. You can also draw an indication on how high or low the piece is from the histogram. By looking at the frequency of pitches, we can see that the piece centres mostly around D4, so is mid-range. The most common pitches range between G3 and A4. This means the piece mostly stays in roughly 1 octave.
