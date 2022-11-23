@@ -208,19 +208,19 @@ I then created histograms of the MFCCs, chromograms and spectrograms of each pie
 
 ![image](doucemfcchistograms.png)
 ![image](detristemfcchistograms.png)
-![image](sumermfcchisograms.png)
+![image](sumermfcchistograms.png)
 
 #### Chromagrams
 
 ![image](doucechromagramhistograms.png)
-![image](detristechromagramhistorgrams.png)
+![image](detristechromagramhistograms.png)
 ![image](sumerchromagramhistograms.png)
 
 #### Spectrograms
 
 ![image](doucespectrogramhistograms.png)
 ![image](detristespectrogramhistograms.png)
-![image](sumerspectrogramhisograms.png)
+![image](sumerspectrogramhistograms.png)
 
 
 
