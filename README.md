@@ -14,11 +14,14 @@
 
 #### Musical Scores
 
-<img src="c'estlafin.png" alt="c'estlafin" style="width:85px;height:170px;float:right;">
-* Medieval music exists in score form, however original works are not easily accessible due to their age and state. Scores I will use for my project will be digital via MuseScore and will be newer transcriptions based on the original works. [IMSLP](https://imslp.org/wiki/Main_Page) is an example of a good online source. Early medieval music sometimes had no score attatched to it, as the music was typically monophonic chants. Later medieval music adopted polyphony and thus written scores were more prevelant, however the notation is very simplistic compared to today's typical western music notation. This is because medieval notation was primarily concerned with the notes being played, thus a time signature or barlines for example (which we would consider essential today), were absent. Here is an example of a medieval score for the song <i>C'est la Fins</i> by composer Guillaume d'Amiens. I found this on IMSLP along with many other medieval scores. 
+* Medieval music exists in score form, however original works are not easily accessible due to their age and state. Scores I will use for my project will be digital via MuseScore and will be newer transcriptions based on the original works. [IMSLP](https://imslp.org/wiki/Main_Page) is an example of a good online source. Early medieval music sometimes had no score attatched to it, as the music was typically monophonic chants. Later medieval music adopted polyphony (organum) and thus written scores were more prevelant, however the notation is very simplistic compared to today's typical western music notation. This is because medieval notation was primarily concerned with the notes being played, thus a time signature or barlines for example (which we would consider essential today), were absent. IMSLP has many examples of what medieval scores look like.
    
 #### Metadata
 
+* Much metadata about medieval music has been lost through time. Therefore, elements of metadata like place and date of publication for example are usually estimated. Sometimes, original authors and composers are unknown, or very little is known about them. Finding metadata on medieval music can be challenging. IMSLP provides as much as it can, and I researched some composers of the pieces I will be using in this portfolio. Leonin is an example of a medieval composer of organum who I researched when looking at metadata. Only his first name is known, and historians can only estimate his date of birth and even what nationality he might have been. 
+
 #### Audio Recordings
+
+* You can find audio recordings of medieval works online. [Archive.org](archive.org) is an example of a site where you can find royalty-free music or samples. Obviously there are no original audio recordings from the time period, only relatively recent recordings based on the original scores.
 
 <hr>
