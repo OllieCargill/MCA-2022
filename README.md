@@ -22,6 +22,6 @@
 
 #### Audio Recordings
 
-* You can find audio recordings of medieval works online. [Archive.org](archive.org) is an example of a site where you can find royalty-free music or samples. Obviously there are no original audio recordings from the time period, only relatively recent recordings based on the original scores.
+* You can find audio recordings of medieval works online. [Archive.org](https://archive.org/details/audio_music) is an example of a site where you can find royalty-free music or samples. Obviously there are no original audio recordings from the time period, only relatively recent recordings based on the original scores.
 
 <hr>
