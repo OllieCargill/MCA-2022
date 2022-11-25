@@ -27,5 +27,5 @@
 <hr>
 
 <div align="right">
-<a href="https://olliecargill.github.io/MCA-2022/labtasks/week2/week2.html" style ="text-align:right;">Week 2 --></a>
+<a href="https://olliecargill.github.io/MCA-2022/labtasks/week2/week2.html">Week 2 --></a>
     </div>
