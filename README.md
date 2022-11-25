@@ -14,7 +14,7 @@
 
 #### Musical Scores
 
-<img src="c'estlafin.png" alt="c'estlafin" style="width:170px;height:85px;" style="float:right;">
+<img src="c'estlafin.png" alt="c'estlafin" style="width:85px;height:170px;" style="float:right;">
 
 * Medieval music exists in score form, however original works are not easily accessible due to their age and state. Scores I will use for my project will be digital via MuseScore and will be newer transcriptions based on the original works. [IMSLP](https://imslp.org/wiki/Main_Page) is an example of a good online source. Early medieval music sometimes had no score attatched to it, as the music was typically monophonic chants. Later medieval music adopted polyphony and thus written scores were more prevelant, however the notation is very simplistic compared to today's typical western music notation. This is because medieval notation was primarily concerned with the notes being played, thus a time signature or barlines for example (which we would consider essential today), were absent. Here is an example of a medieval score for the song <i>C'est la Fins</i> by composer Guillaume d'Amiens. I found this on IMSLP along with many other medieval scores. 
    
