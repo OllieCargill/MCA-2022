@@ -7,7 +7,7 @@
 ### 1. MusicXML and MEI files
 * For week 3's task, I exported this MuseScore file into MusicXML and MEI, and then rendered the MEI file using Verovio.
 * Here is the [MusicXML file](Ave_Maris_Stella.musicxml).
-* Here is the [MEI file](Ave_Maris_Stella.mei).
+* Here is the [MEI file](ave_maris_stella.mei).
 
 <hr>
 
