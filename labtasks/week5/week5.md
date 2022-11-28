@@ -8,4 +8,4 @@ For this week's task I added metadata to my MEI file.
 
 <hr>
 
-<div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week4/week4.html"><--Week 4</a> <div align="right"><a href="https://olliecargill.github.io/MCA2022/labtasks/week7/week7.html">Week 7 --></a> </div>
+<div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week4/week4.html"><--Week 4</a> <div align="right"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week7/week7.html">Week 7 --></a> </div>
