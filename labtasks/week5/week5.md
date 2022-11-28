@@ -5,3 +5,7 @@
 ## Week 5: Standards in Curation
 
 For this week's task I added metadata to my MEI file.
+
+<hr>
+
+<div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week3/week3.html"><--Week 3</a> <div align="right"><a href="https://olliecargill.github.io/MCA2022/labtasks/week7/week7.html">Week 7 --></a> </div>
