@@ -10,9 +10,9 @@
 
 * Here is a link to the [CSV file](Ave_Maris_Stella_jSymbolic_VALUES.csv).
 
-Feature | Value
-------- | -------
-Number of pitches | 28
+Feature | Value                                                      * Some conclusions we can draw from this information are: the most common pitch is D4, as the 
+------- | -------                                                      MIDI values for D4 is 62. This is reflected in the pitch histogram further down, which also 
+Number of pitches | 28                                                 shows that D4 is the most common pitch.                           
 Number of pitch classes | 12
 Range | 31
 Strong tonal centres | 1
