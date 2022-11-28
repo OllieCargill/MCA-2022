@@ -10,8 +10,6 @@
 
 * Here is a link to the [CSV file](Ave_Maris_Stella_jSymbolic_VALUES.csv).
 
-Here are the findings:
-
 Feature | Value
 ------- | -------
 Number of pitches | 28
