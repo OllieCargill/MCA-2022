@@ -90,5 +90,5 @@ One advantage of a time-frequency analysis over a waveform-based analysis is tha
 
 <hr>
 
-<div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week5/week5.html"><--Week 5</a> <div align="right"><a href="https://olliecargill.github.io/MCA2022/labtasks/week8/week8.html">Week 8 --></a> </div>
+<div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week7/week7.html"><--Week 7</a> <div align="right"><a href="https://olliecargill.github.io/MCA2022/labtasks/week9/week9.html">Week 9 --></a> </div>
 
