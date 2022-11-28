@@ -5,6 +5,8 @@
 ## Week 2: Notation Basics
 
 * For week 2's task, I converted a PDF file of the sheet music for the medieval hymn "Ave Maris Stella" in to MuseScore. I then corrected any mistakes that the technology made in the conversion process. Here is a screenshot of the PDF converted into Musescore:
+
+
 <br>
 <img src="avemarisstella.png" alt="image">
 <br>
