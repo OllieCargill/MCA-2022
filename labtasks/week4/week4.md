@@ -28,6 +28,8 @@ Most common melodic interval | 2
 
 * Some conclusions we can draw from this information are:the most common pitch is a D4, as the MIDI value for D4 is 62. This is reflected in the pitch histogram further down, which also shows that D4 is the most common pitch. We also know that there are 31 semitones between the highest and the lowest pitch in the piece, as demonstarted by the Range feature. We also know that the most common distance between two notes is 2 semitones. The 'most common melodic interval' feature tells us this.
 
+<hr>
+
 ### 2. music21: Piano roll, Scatterplot & Pitch histogram
 
 ### Piano roll
@@ -47,5 +49,7 @@ Most common melodic interval | 2
 <img src="pitchhistogram.png">
 
 * This shows the number of pitches in the piece ranging from C3 to G5. From this histogram, we can determine that there are 30 A3s for example. We can also see that there are many Gs, As, Ds and Cs, so this could give us a good indication of the key of the piece which we know is C major. You can also draw an indication on how high or low the piece is from the histogram. By looking at the frequency of pitches, we can see that the piece centres mostly around D4, so is mid-range. The most common pitches range between G3 and A4. This means the piece mostly stays in roughly 1 octave.
+
+<hr>
 
 <div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week3/week3.html"><--Week 3</a> <div align="right"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week5/week5.html">Week 5 --></a> </div>
