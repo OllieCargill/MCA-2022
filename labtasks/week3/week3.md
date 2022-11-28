@@ -3,10 +3,17 @@
 # Ollie Cargill's MCA Project: Medieval Music
 
 ## Week 3: Encoding Basics for Notation
-For week 3's task, I exported this MuseScore file into MusicXML and MEI, and then rendered the MEI file using Verovio.
-Here is the [MusicXML file](Ave_Maris_Stella.musicxml).
 
-This is the link to the rendered MEI file of Ave Maris Stella using Verovio - my answers to the week 3 questions are also on this page: [Week 3 Task](https://olliecargill.github.io/MCA-2022/verovio.html).
+### 1. MusicXML and MEI files
+* For week 3's task, I exported this MuseScore file into MusicXML and MEI, and then rendered the MEI file using Verovio.
+* Here is the [MusicXML file](Ave_Maris_Stella.musicxml).
+* Here is the [MEI file](Ave_Maris_Stella.mei).
+
+<hr>
+
+## 2. Verovio Render
+* This is the link to the rendered MEI file of Ave Maris Stella using Verovio - my answers to the week 3 questions are also on this page: 
+* [Verovio render and Week 3 answers](https://olliecargill.github.io/MCA-2022/verovio.html).
 
 <hr>
 
