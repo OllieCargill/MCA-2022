@@ -13,4 +13,4 @@
 
 <hr>
                                           
-<div align="left"><a href="https://olliecargill.github.io/MCA-2022/"><--Week 1</a> <div align="right"><a href="https://olliecargill.github.io/MCA2022/labtasks/week3/week3.html">Week 3 --></a> </div>
+<div align="left"><a href="https://olliecargill.github.io/MCA-2022/"><--Week 1</a> <div align="right"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week3/week3.html">Week 3 --></a> </div>
