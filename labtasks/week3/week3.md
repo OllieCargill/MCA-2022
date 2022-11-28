@@ -10,6 +10,6 @@ This is the link to the rendered MEI file of Ave Maris Stella using Verovio - my
 
 <hr>
 
-<div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week2/week2.html"><--Week 2</a> <div align="right"><a href="https://olliecargill.github.io/MCA2022/labtasks/week4/week4.html">Week 4 --></a> </div>
+<div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week2/week2.html"><--Week 2</a> <div align="right"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week4/week4.html">Week 4 --></a> </div>
 
     
