@@ -46,3 +46,5 @@ This scatterplot shows the relationship between the pitches in the piece and the
 <img src="pitchhistogram.png">
 
 This shows the number of pitches in the piece ranging from C3 to G5. From this histogram, we can determine that there are 30 A3s for example. We can also see that there are many Gs, As, Ds and Cs, so this could give us a good indication of the key of the piece which we know is C major. You can also draw an indication on how high or low the piece is from the histogram. By looking at the frequency of pitches, we can see that the piece centres mostly around D4, so is mid-range. The most common pitches range between G3 and A4. This means the piece mostly stays in roughly 1 octave.
+
+<div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week3/week3.html"><--Week 3</a> <div align="right"><a href="https://olliecargill.github.io/MCA2022/labtasks/week5/week5.html">Week 5 --></a> </div>
