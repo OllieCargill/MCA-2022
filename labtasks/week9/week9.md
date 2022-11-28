@@ -66,4 +66,4 @@ I then created histograms of the MFCCs, chromograms and spectrograms of each pie
 
 <hr>
 
-<div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week8/week8.html"><--Week 8</a> <div align="right"><a href="https://olliecargill.github.io/MCA2022/labtasks/week10/week10.html">Week 10 --></a> </div>
+<div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week8/week8.html"><--Week 8</a> <div align="right"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week10/week10.html">Week 10 --></a> </div>
