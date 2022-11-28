@@ -7,4 +7,9 @@ For week 3's task, I exported this MuseScore file into MusicXML and MEI, and the
 Here is the [MusicXML file](Ave_Maris_Stella.musicxml).
 
 This is the link to the rendered MEI file of Ave Maris Stella using Verovio - my answers to the week 3 questions are also on this page: [Week 3 Task](https://olliecargill.github.io/MCA-2022/verovio.html).
+
+<hr>
+
+<div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week2/week2.html"><--Week 2</a> <div align="right"><a href="https://olliecargill.github.io/MCA2022/labtasks/week4/week4.html">Week 4 --></a> </div>
+
     
