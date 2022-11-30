@@ -9,21 +9,21 @@
 
 ![image](jsymbolicvalues.png)
 
-* Here is a link to the [CSV file](Ave_Maris_Stella_jSymbolic_VALUES.csv).
-    
-                                                                    Feature | Value                                                       
-                                                                    ------- | -------                                                      
-                                                                 Number of pitches | 28                                                                           
-                                                              Number of pitch classes | 12
-                                                                      Range | 31
-                                                                 Strong tonal centres | 1
-                                                                  Mean pitch | 60.92
-                                                                 Mean pitch class | 5.198
-                                                                  Most common pitch | 62 
-                                                                Most common pitch class | 2
-                                                          Interval between most prevelant pitches | 5
-                                                                  Pitch variability | 6.927
-                                                              Most common melodic interval | 2
+* Here is a link to the [CSV file](Ave_Maris_Stella_jSymbolic_VALUES.csv)
+
+Feature | Value                                                       
+------- | -------                                                      
+Number of pitches | 28                                                                           
+Number of pitch classes | 12
+Range | 31
+Strong tonal centres | 1
+Mean pitch | 60.92
+Mean pitch class | 5.198
+Most common pitch | 62 
+Most common pitch class | 2
+Interval between most prevelant pitches | 5
+Pitch variability | 6.927
+Most common melodic interval | 2
     
 * Some conclusions we can draw from this information are:the most common pitch is a D4, as the MIDI value for D4 is 62. This is reflected in the pitch histogram further down, which also shows that D4 is the most common pitch. We also know that there are 31 semitones between the highest and the lowest pitch in the piece, as demonstarted by the Range feature. We also know that the most common distance between two notes is 2 semitones. The 'most common melodic interval' feature tells us this.
 
