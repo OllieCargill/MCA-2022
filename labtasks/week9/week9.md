@@ -50,7 +50,7 @@
 
 ### Histograms 
 
-I then created histograms of the MFCCs, chromograms and spectrograms of each piece using Jupyter Notebooks. Here are the histograms:
+* I then created histograms of the MFCCs, chromograms and spectrograms of each piece using Jupyter Notebooks. Here are the histograms:
 
 #### MFCCs
 
@@ -59,6 +59,11 @@ I then created histograms of the MFCCs, chromograms and spectrograms of each pie
                 <td class="text-table"> <img src="doucemfcchistograms.png"> </td>
                 <td class="text-table"> <img src="detristemfcchistograms.png"> </td>
                 <td class="text-table"> <img src="sumermfcchistograms.png"> </td>
+  </tr>
+  <tr>
+    <td class="text-table"> Douce Dame Jolie </td>
+    <td class="text-table"> De Triste Cuer </td>
+    <td class="text-table"> Sumer is Icumin In </td>
   </tr>
   </table>
               
