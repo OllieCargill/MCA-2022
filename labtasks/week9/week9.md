@@ -57,7 +57,7 @@
 <table class="screenshots">
   <tr>
     <td class="text-table"> <strong>Douce Dame Jolie</strong> </td>
-    <td class="text-table"> <strong>Douce Dame Jolie</strong> </td>
+    <td class="text-table"> <strong>De Triste Cuer</strong> </td>
     <td class="text-table"> <strong>Sumer is Icumin In</strong> </td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@
 <table class="screenshots">
   <tr>
     <td class="text-table"> <strong>Douce Dame Jolie</strong> </td>
-    <td class="text-table"> <strong>Douce Dame Jolie</strong> </td>
+    <td class="text-table"> <strong>De Triste Cuer</strong> </td>
     <td class="text-table"> <strong>Sumer is Icumin In</strong> </td>
   </tr>
   <tr>
