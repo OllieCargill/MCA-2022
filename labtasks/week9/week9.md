@@ -67,22 +67,35 @@
   </tr>
   </table>
               
-
-![image](doucemfcchistograms.png)
-![image](detristemfcchistograms.png)
-![image](sumermfcchistograms.png)
-
 #### Chromagrams
 
-![image](doucechromagramhistograms.png)
-![image](detristechromagramhistograms.png)
-![image](sumerchromagramhistograms.png)
+<table class="screenshots">
+  <tr>
+    <td class="text-table"> <strong>Douce Dame Jolie</strong> </td>
+    <td class="text-table"> <strong>Douce Dame Jolie</strong> </td>
+    <td class="text-table"> <strong>Sumer is Icumin In</strong> </td>
+  </tr>
+  <tr>
+    <td class="text-table"> <img src="doucechromagramhistograms.png"> </td>
+    <td class="text-table"> <img src="detristechromagramhistograms.png"> </td>
+    <td class="text-table"> <img src="sumerchromagramhistograms.png"> </td>
+  </tr>
+  </table>
 
 #### Spectrograms
 
-![image](doucespectrogramhistograms.png)
-![image](detristespectrogramhistograms.png)
-![image](sumerspectrogramhistograms.png)
+<table class="screenshots">
+  <tr>
+    <td class="text-table"> <strong>Douce Dame Jolie</strong> </td>
+    <td class="text-table"> <strong>Douce Dame Jolie</strong> </td>
+    <td class="text-table"> <strong>Sumer is Icumin In</strong> </td>
+  </tr>
+  <tr>
+    <td class="text-table"> <img src="doucespectrogramhistograms.png"> </td>
+    <td class="text-table"> <img src="detristespectrogramhistograms.png"> </td>
+    <td class="text-table"> <img src="sumerspectrogramhistograms.png"> </td>
+  </tr>
+  </table>
 
 <hr>
 
