@@ -50,22 +50,7 @@
 
 ### Histograms 
 
-* I then created histograms of the MFCCs, chromograms and spectrograms of each piece using Jupyter Notebooks. Here are the histograms:
-
-#### MFCCs
-
-<table class="screenshots">
-  <tr>
-    <td class="text-table"> <strong>Douce Dame Jolie</strong> </td>
-    <td class="text-table"> <strong>De Triste Cuer</strong> </td>
-    <td class="text-table"> <strong>Sumer is Icumin In</strong> </td>
-  </tr>
-              <tr>
-                <td class="text-table"> <img src="doucemfcchistograms.png"> </td>
-                <td class="text-table"> <img src="detristemfcchistograms.png"> </td>
-                <td class="text-table"> <img src="sumermfcchistograms.png"> </td>
-  </tr>
-  </table>
+* I then created histograms of the chromagrams, spectrograms and MFCCs of each piece using Jupyter Notebooks. Here are the histograms:
               
 #### Chromagrams
 
@@ -96,6 +81,23 @@
     <td class="text-table"> <img src="sumerspectrogramhistograms.png"> </td>
   </tr>
   </table>
+  
+ #### MFCCs
+
+<table class="screenshots">
+  <tr>
+    <td class="text-table"> <strong>Douce Dame Jolie</strong> </td>
+    <td class="text-table"> <strong>De Triste Cuer</strong> </td>
+    <td class="text-table"> <strong>Sumer is Icumin In</strong> </td>
+  </tr>
+              <tr>
+                <td class="text-table"> <img src="doucemfcchistograms.png"> </td>
+                <td class="text-table"> <img src="detristemfcchistograms.png"> </td>
+                <td class="text-table"> <img src="sumermfcchistograms.png"> </td>
+  </tr>
+  </table>
+
+* These MFCCs show...
 
 <hr>
 
