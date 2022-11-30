@@ -4,7 +4,7 @@
 
 ## Week 9: Analysing and Extracting Meaning from Audio
 
-* For this week's task I selected three sample tracks from the album <i>Music for a Medieval Day</i> available from [archive.org](https://archive.org/details/lp_music-for-a-medieval-day_alfonso-x-el-sabio-anonymous-guillaume-de/disc1/01.10.+Sumer+Is+Icumin+In.mp3) The tracks I have selected are: <i>Douce Dame Jolie</i>, <i>De Triste Cuer</i> and <i>Sumer is Icumin In</i>.
+* For this week's task I selected three sample tracks from the album <i>Music for a Medieval Day</i> available from [Archive.org](https://archive.org/details/lp_music-for-a-medieval-day_alfonso-x-el-sabio-anonymous-guillaume-de/disc1/01.10.+Sumer+Is+Icumin+In.mp3) The tracks I have selected are: <i>Douce Dame Jolie</i>, <i>De Triste Cuer</i> and <i>Sumer is Icumin In</i>.
 
 ### Douce Dame Jolie
 
@@ -14,7 +14,7 @@
 
 #### CSV files
 
-[Spectrogram](doucespectrogram.csv)
+* [Spectrogram](doucespectrogram.csv)
 [Chromagram](doucechromagram.csv)
 [MFCC](doucemfcc.csv)
 
@@ -28,7 +28,7 @@
 
 #### CSV files
 
-[Spectrogram](detristespectrogram.csv)
+* [Spectrogram](detristespectrogram.csv)
 [Chromagram](detristechromagram.csv)
 [MFCC](detristemfcc.csv)
 
@@ -42,7 +42,7 @@
 
 #### CSV files
 
-[Spectrogram](sumerspectrogram.csv)
+* [Spectrogram](sumerspectrogram.csv)
 [Chromagram](sumerchromagram.csv)
 [MFCC](sumermfcc.csv)
 
