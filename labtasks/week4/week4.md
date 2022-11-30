@@ -33,7 +33,7 @@ Most common melodic interval | 2
 
 ### Piano roll
 
-<img width="400" height="400" src="pianoroll.png">
+<img width="500" height="550" src="pianoroll.png">
 
 * This is a piano roll of the first 10 bars or 30 notes of the piece. It shows the order of notes played (reading from left to right), the pitch of the note played (from the Y-axis) and the length of the note played (from the X-axis) over these first 10 bars. 
 
