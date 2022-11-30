@@ -39,7 +39,7 @@ Most common melodic interval | 2
 
 ### Scatterplot
 
-<img width="500" height="400" src="scatterplot.png">
+<img width="500" height="450" src="scatterplot.png">
 
 * This scatterplot shows the relationship between the pitches in the piece and their lengths. From this we know that the most common note lengths are quarter notes (crotchets) and eighth notes (quavers). This is because the most plots are on the 0.5 and 1.0 values on the X-axis, which represents quarter length notes. The more transparent plots have fewer notes of that pitch that are that length. The more opaque plots have many notes of that pitch are that length. 
 
