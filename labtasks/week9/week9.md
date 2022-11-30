@@ -61,9 +61,9 @@
                 <td class="text-table"> <img src="sumermfcchistograms.png"> </td>
   </tr>
   <tr>
-    <td class="text-table"> Douce Dame Jolie </td>
-    <td class="text-table"> De Triste Cuer </td>
-    <td class="text-table"> Sumer is Icumin In </td>
+    <td class="text-table"> <strong>Douce Dame Jolie</strong> </td>
+    <td class="text-table"> <strong>De Triste Cuer</strong> </td>
+    <td class="text-table"> <strong>Sumer is Icumin In</strong> </td>
   </tr>
   </table>
               
