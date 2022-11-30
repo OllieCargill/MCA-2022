@@ -16,6 +16,9 @@
   </tr>
   </table>
 
+* Here is a list of elements I added to the file:
+* I used the @auth.uri...
+
 <hr>
 
 <div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week4/week4.html"><--Week 4</a> <div align="right"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week7/week7.html">Week 7 --></a> </div>
