@@ -55,15 +55,15 @@
 #### MFCCs
 
 <table class="screenshots">
-              <tr>
-                <td class="text-table"> <img src="doucemfcchistograms.png"> </td>
-                <td class="text-table"> <img src="detristemfcchistograms.png"> </td>
-                <td class="text-table"> <img src="sumermfcchistograms.png"> </td>
-  </tr>
   <tr>
     <td class="text-table"> <strong>Douce Dame Jolie</strong> </td>
     <td class="text-table"> <strong>De Triste Cuer</strong> </td>
     <td class="text-table"> <strong>Sumer is Icumin In</strong> </td>
+  </tr>
+              <tr>
+                <td class="text-table"> <img src="doucemfcchistograms.png"> </td>
+                <td class="text-table"> <img src="detristemfcchistograms.png"> </td>
+                <td class="text-table"> <img src="sumermfcchistograms.png"> </td>
   </tr>
   </table>
               
