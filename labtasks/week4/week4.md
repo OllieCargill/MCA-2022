@@ -33,7 +33,7 @@ Most common melodic interval | 2
 
 ### Piano roll
 
-div class="row">
+<div class="row">
   <div class="column">
     <img src="pianoroll.png" alt="Pianoroll" style="width:100%">
   </div>
