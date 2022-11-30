@@ -4,6 +4,12 @@
 
 ## Week 10: Audio Similarity and Transcription
 
+### 1. Similarity
+
+<hr>
+
+### 2. Transcription
+
 <hr>
 
 
