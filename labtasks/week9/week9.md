@@ -54,6 +54,15 @@ I then created histograms of the MFCCs, chromograms and spectrograms of each pie
 
 #### MFCCs
 
+<table class="screenshots">
+              <tr>
+                <td class="text-table"> <img src="doucemfcchistograms.png"> </td>
+                <td class="text-table"> <img src="detristemfcchistograms.png"> </td>
+                <td class="text-table"> <img src="sumermfcchistograms.png"> </td>
+  </tr>
+  </table>
+              
+
 ![image](doucemfcchistograms.png)
 ![image](detristemfcchistograms.png)
 ![image](sumermfcchistograms.png)
