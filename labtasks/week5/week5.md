@@ -4,7 +4,8 @@
 
 ## Week 5: Standards in Curation
 
-For this week's task I added metadata to my MEI file.
+* For this week's task I added metadata to my MEI file. This is what my MEI file looked like before the metadata was added to the mei header.
+<img src="meifilepremetadata.png"> 
 
 <hr>
 
