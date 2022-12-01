@@ -82,7 +82,7 @@
   </tr>
   </table>
   
- #### MFCCs
+#### MFCCs
 
 <table class="screenshots">
   <tr>
