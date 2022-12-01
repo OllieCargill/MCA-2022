@@ -6,14 +6,16 @@
 
 ### 1. Similarity
 
-* For this week's task I generated a similarity matrix of 9 tracks using Jupyter Notebooks. I replaced the three country tracks with the medieval samples I used in week 8's task. Here are the similiarity matrixes:
+* For this week's task I generated a similarity scatterplot and similarity matrix of 10 tracks using Jupyter Notebooks. I replaced the three country tracks with the medieval samples I used in week 8's task. Here are the similiarity matrixes:
 
 <table class ="screenshots">
   <tr>
+    <td class="text-table"> A to C Scatterplot</td>
     <td class="text-table"> A to C Similarity Matrix</td>
     <td class="text-table"> All 12 Notes</td>
   </tr>
   <tr>
+    <td class="text-table"> <img src="similarityscatterplot.png"></td>
     <td class="text-table"> <img src="matrix1.png"></td>
     <td class="text-table"> <img src="matrix2.png"></td>
   </tr>
