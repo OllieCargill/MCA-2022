@@ -6,6 +6,13 @@
 
 ### 1. Similarity
 
+* For this week's task I generated a similarity matrix of 9 tracks using Jupyter Notebooks. I replaced the three country tracks with the medieval samples I used in week X's task. Here are the similiarity matrixes:
+
+TABLE HERE
+
+* Track 7 represents <strong>Sumer</strong>, track 8 represents <strong>De Triste Cuer</strong> and track 9 represents <strong>Douce</strong>.
+
+
 <hr>
 
 ### 2. Transcription
