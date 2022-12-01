@@ -15,7 +15,7 @@
     <td class="text-table"> All 12 Notes</td>
   </tr>
   <tr>
-    <td class="text-table"> <img widht="253" height="253" src="similarityscatterplot.png"></td>
+    <td class="text-table"> <img widht="252" height="252" src="similarityscatterplot.png"></td>
     <td class="text-table"> <img src="matrix1.png"></td>
     <td class="text-table"> <img src="matrix2.png"></td>
   </tr>
