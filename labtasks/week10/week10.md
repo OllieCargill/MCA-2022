@@ -28,6 +28,19 @@
 
 ### 2. Transcription
 
+* For the next task, I used the piece from week 2's task, Ave Maris Stella, to make a piano roll transcription. First, I imported the WAV file into SonicVisualiser and then created a piano roll using <i>Transform</i>. Next, I exported the piano roll as a MIDI file and opened it using MuseScore to visualise it in notational form. Below is the original piece compared to the transcribed piece:
+
+<table class="screenshots">
+  <tr>
+    <td class="text-table"> Original Score</td>
+    <td class="text-table"> Transcribed Piece</td>
+  </tr>
+  <tr>
+    <td class="text-table"> <img src="Ave_Maris_Stella-1.png"></td>
+    <td class="text-table"> <img src="avemarisstellaweek10midi-1.png"></td>
+  </tr>
+  </table>
+       
 <hr>
 
 
