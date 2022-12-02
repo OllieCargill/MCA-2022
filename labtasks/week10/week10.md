@@ -37,9 +37,11 @@
   </tr>
   <tr>
     <td class="text-table"> <img src="Ave_Maris_Stella-1.png"></td>
-    <td class="text-table"> <img width="500" height="500" src="avemarisstellaweek10midi-1.png"></td>
+    <td class="text-table"> <img src="avemarisstellaweek10midi-1.png"></td>
   </tr>
   </table>
+
+* A comparison of the the original score and the transcribed score reveals many things...
        
 <hr>
 
