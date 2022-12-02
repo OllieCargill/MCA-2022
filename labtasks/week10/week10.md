@@ -21,7 +21,7 @@
   </tr>
   </table>
       
-* Track 7 represents <strong>Sumer is Icunmin In</strong>, track 8 represents <strong>De Triste Cuer</strong> and track 9 represents <strong>Douce Dame Jolie</strong>.
+* Track 7 represents <strong>Sumer is Icunmin In</strong>, track 8 represents <strong>De Triste Cuer</strong> and track 9 represents <strong>Douce Dame Jolie</strong>. From this we can see...
 
 
 <hr>
