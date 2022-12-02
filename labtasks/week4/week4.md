@@ -31,24 +31,36 @@ Most common melodic interval | 2
 
 ### 2. music21: Piano roll, Scatterplot & Pitch histogram
 
-### Piano roll
-
 <table class="screenshots">
-    <td
-
-<img width="500" height="400" src="pianoroll.png">
+    <tr>
+        <td class="text-table"> Piano Roll</td>
+    </tr>
+    <tr>
+        <td class="text-table"> <img width="500" height="400" src="pianoroll.png"></td>
+    </tr>
+    </table>
 
 * This is a piano roll of the first 10 bars or 30 notes of the piece. It shows the order of notes played (reading from left to right), the pitch of the note played (from the Y-axis) and the length of the note played (from the X-axis) over these first 10 bars.
 
-### Scatterplot
-
-<img width="500" height="450" src="scatterplot.png">
-
+<table class="screenshots">
+    <tr>
+        <td class="text-table"> Scatterplot</td>
+    </tr>
+    <tr>
+        <td class="text-table"> <img width="500" height="450" src="scatterplot.png"></td>
+    </tr>
+    </table>
+    
 * This scatterplot shows the relationship between the pitches in the piece and their lengths. From this we know that the most common note lengths are quarter notes (crotchets) and eighth notes (quavers). This is because the most plots are on the 0.5 and 1.0 values on the X-axis, which represents quarter length notes. The more transparent plots have fewer notes of that pitch that are that length. The more opaque plots have many notes of that pitch are that length. 
 
-### Pitch histogram
-
-<img width="500" height="450" src="pitchhistogram.png">
+<table class="screenshots">
+    <tr>
+        <td class="text-table"> Pitch Histogram</td>
+    </tr>
+    <tr>
+        <td class="text-table"> <img width="500" height="450" src="pitchhistogram.png"></td>
+    </tr>
+    </table>
 
 * This shows the number of pitches in the piece ranging from C3 to G5. From this histogram, we can determine that there are 30 A3s for example. We can also see that there are many Gs, As, Ds and Cs, so this could give us a good indication of the key of the piece which we know is C major. You can also draw an indication on how high or low the piece is from the histogram. By looking at the frequency of pitches, we can see that the piece centres mostly around D4, so is mid-range. The most common pitches range between G3 and A4. This means the piece mostly stays in roughly 1 octave.
 
