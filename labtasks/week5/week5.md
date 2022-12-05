@@ -16,8 +16,21 @@
   </tr>
   </table>
 
-* Here is a list of elements I added to the file:
-* I used the @auth.uri...
+### Metadata added to the File Description (fileDesc)
+
+* In the <i>titleStmt</i>, I added a title and subtitle. I also added the name of the encoder (myself in this case) in the <i>respStmt</i> within the <i>titleStmt</i>.
+* Within the <i>editionStmt</i> I added... 
+* Within the <i>extent</i> tag, I added... 
+* Within the <i>pubStmt</i> I added... 
+* Within the <i>seriesStmt</i> I added...
+
+### Metadata added to the Encoding Description (encodingDesc)
+
+* In the <i>projectDesc</i> I added...
+* 
+
+
+* The updated MEI file including the metadata can be found here: 
 
 <hr>
 
