@@ -27,8 +27,6 @@
 ### Metadata added to the Encoding Description (encodingDesc)
 
 * In the <i>projectDesc</i> I added...
-* 
-
 
 * The updated MEI file including the metadata can be found here: 
 
