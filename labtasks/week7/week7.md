@@ -4,6 +4,18 @@
 
 ## Week 7: Challenges to Music Curation
 
+### 1. Revising the MEI file
+
+* For this week's task I revised week 5's metadata by adding a Work Description. In <i>work</i> I added information about the genre and where / when the original piece was written. Here is what this looks like in the mei file:
+
+* I then added a Creative Commons license to my transcribed piece and coded this into the MEI file. I chose to add the X license because... Here is what this looks like in the MEI file:
+
+<hr>
+
+### 2. Rendering the metadata and score on an HTML page
+
+* For the next task I...
+
 <hr>
 
 <div align="left"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week5/week5.html"><--Week 5</a> <div align="right"><a href="https://olliecargill.github.io/MCA-2022/labtasks/week8/week8.html">Week 8 --></a> </div>
