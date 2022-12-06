@@ -20,14 +20,13 @@
 ### Metadata added to the File Description (fileDesc)
 
 * In the <i>titleStmt</i>, I added a title and subtitle. I also added the name of the encoder (myself in this case) in the <i>respStmt</i> within the <i>titleStmt</i>.
-* Within the <i>editionStmt</i> I added... 
-* Within the <i>extent</i> tag, I added... 
-* Within the <i>pubStmt</i> I added... 
-* Within the <i>seriesStmt</i> I added...
+* Within the <i>editionStmt</i> I added information about the edition of the hymn I used which was from IMSLP.org. I added the arranger's name, the date the arrangement was uploaded and what voices the arrangement was written for. I included where it was published (IMSLP) within the <i>respStmt</i> tag. 
+* Within the <i>pubStmt</i> I added the date in which the piece was encoded into verovio, my name as the publisher, the location of publishing and the date of publishing.
+* Within the <i>seriesStmt</i> I added a title (Ollie Cargill's MCA 2022 portfolio) to indicate the name of the dataset that the piece is now encoded in. 
 
 ### Metadata added to the Encoding Description (encodingDesc)
 
-* In the <i>projectDesc</i> I added...
+* In the <i>projectDesc</i> I added a brief description of why the piece was encoded.
 
 * The updated MEI file including the metadata can be found here: 
 
