@@ -13,7 +13,7 @@
 * I then added a Creative Commons license to my transcribed piece and coded this into the MEI file. I chose to add the X license because this is the license that the piece has on IMSLP. Here is what this looks like in the MEI file:
 
 
-* Here is the link to the updated [MEI file](https://github.com/OllieCargill/MCA-2022/blob/master/data/Ave_Maris_Stella_Week7.mei)
+* Here is the link to the updated [MEI file.](https://github.com/OllieCargill/MCA-2022/blob/master/data/Ave_Maris_Stella_Week7.mei)
 
 <hr>
 
