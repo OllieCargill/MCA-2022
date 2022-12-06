@@ -8,9 +8,11 @@
 
 * For this week's task I revised the metadata in week 5's MEI file by adding a Work Description. In <i>workList</i> I added information about the genre and where / when the original piece was written. Here is what this looks like in the mei file:
 
-
+[!image](workslist.png)
 
 * I then added a Creative Commons license to my transcribed piece and coded this into the MEI file. I chose to add the CC BY-NC-SA 3.0 license because this is the license that the original piece has on IMSLP. This allowed me to redistribute the material and adapt/build-upon the material for my portfolio. However with this license I am not allowed to commercialise on the redistributed material. I also had to pick this because if I redistribute material that has this license in the first place, then the new material must retain the license. This is known as ShareAlike (SA). I must also give appropriate credit to the original creator (Attribution) which I have done by adding metadata to the MEI file. Here is a link to the [Creative Commons license.](https://creativecommons.org/licenses/by-nc-sa/3.0/) Here is what this looks like in the MEI file:
+
+[!image](creativecommons.png)
 
 
 * Here is the link to the updated [MEI file.](https://github.com/OllieCargill/MCA-2022/blob/master/data/Ave_Maris_Stella_Week7.mei)
