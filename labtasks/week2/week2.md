@@ -11,7 +11,8 @@
 <img src="avemarisstella.png" alt="image">
 <br>
 
-* Here is the link to the MuseScore file: <a href="Ave_Maris_Stella.mscz">MuseScore File</a>. I noticed a reccurring issue that arised when converting the PDF to Musescore. This was that the stems joining quavers together were sometimes broken instead of connected. The music is still readable and makes sense, so this is more of a stylistic issue.
+* Here is the link to the <a href="Ave_Maris_Stella.mscz">MuseScore File</a>. I noticed a reccurring issue that arised when converting the PDF to Musescore. This was that the stems joining quavers together were sometimes broken instead of connected. The music is still readable and makes sense, so this is more of a stylistic issue.
+* Here is the link to the original file on <a href="https://imslp.org/wiki/Ave_maris_stella_(Dunstaple%2C_John)">IMSLP.org</a>
 
 <hr>
                                           
