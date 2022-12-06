@@ -46,6 +46,14 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <workList>
+         <title>Ave Maris Stella</title>
+         <genre>Medieval Plainchant Hymn</genre>
+         <creation>
+            <date>9th Century</date>
+            <geogName>Vienna / St. Gallen</geogName>
+         </creation>
+      </workList>
    </meiHead>
    <music>
       <body>
