@@ -8,7 +8,11 @@
 
 * For this week's task I revised the metadata in week 5's MEI file by adding a Work Description. In <i>work</i> I added information about the genre and where / when the original piece was written. Here is what this looks like in the mei file:
 
-* I then added a Creative Commons license to my transcribed piece and coded this into the MEI file. I chose to add the X license because... Here is what this looks like in the MEI file:
+
+
+* I then added a Creative Commons license to my transcribed piece and coded this into the MEI file. I chose to add the X license because this is the license that the piece has on IMSLP. Here is what this looks like in the MEI file:
+
+
 
 <hr>
 
