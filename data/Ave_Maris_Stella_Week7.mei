@@ -32,6 +32,10 @@
                </addrLine>
             </address>
             <date>2022</date>
+            <availibility>
+               <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/3.0/" authority="Creative Commons"> 
+                  Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</useRestrict>
+            </availibility>
          </pubStmt>
          <seriesStmt>
             <title> Ollie Cargill's MCA 2022 portfolio </title>
