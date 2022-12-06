@@ -28,6 +28,8 @@
 
 * In the <i>projectDesc</i> I added a brief description of why the piece was encoded.
 
+<hr>
+
 * The updated MEI file including the metadata can be found here: [MEI file](https://github.com/OllieCargill/MCA-2022/blob/master/data/Ave_Maris_Stella_Week5.mei). 
 
 <hr>
