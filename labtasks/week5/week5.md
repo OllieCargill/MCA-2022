@@ -13,6 +13,7 @@
   </tr>
   <tr>
     <td class="text-table"><img src="meifilenometadata.png"></td>
+    <td class="text-table"><img src="meifilemetadata.png"></td>
   </tr>
   </table>
 
