@@ -1816,6 +1816,8 @@ mei-filedesc > mei-titlestmt > mei-title {
   display: block;
   font-size: 24pt;
   font-family: Helvetica;
+  text-decoration: underline #20D89A;
+  
 }
 
 mei-filedesc > mei-titlestmt > mei-respstmt {
