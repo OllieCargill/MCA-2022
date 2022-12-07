@@ -27,7 +27,7 @@
 
 * Here is the Verovio render that has been formatted using CSS:
 
-* Here is a link to the [CETEIcean.css file.]()
+* Here is a link to the [CETEIcean.css file.](https://github.com/OllieCargill/MCA-2022/blob/master/css/CETEIcean.css)
 
 <hr>
 
