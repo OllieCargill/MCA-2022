@@ -21,7 +21,13 @@
 
 ### 2. Rendering the metadata and score on an HTML page
 
-* For the next task I...
+* For the next task I used CSS to format the metadata in a readable and organised manner on the Verovio render. Here is what the metadata looked like before I formatted it using CSS:
+
+<img src="metadataprecss.png">
+
+* Here is the Verovio render that has been formatted using CSS:
+
+* Here is a link to the [CETEIcean.css file.]()
 
 <hr>
 
