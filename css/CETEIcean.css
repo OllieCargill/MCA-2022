@@ -1836,7 +1836,8 @@ mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="encoder"]::befor
 }
 
 mei-filedesc > mei-pubstmt > mei-respstmt {
-  display: none;
+  display: block;
+  font-size: 14pt;
 }
 
 mei-pubstmt > mei-address {
