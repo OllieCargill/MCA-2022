@@ -1820,14 +1820,6 @@ mei-filedesc > mei-titlestmt > mei-title {
   
 }
 
-mei-filedesc > mei-titlestmt > mei-title[type-"subtitle"] {
-  color: #20D89A;
-  display: block;
-  font-size: 18pt;
-  font-family: Helvetica;  
-  font-variant-caps: small-caps;
-}
-
 mei-filedesc > mei-titlestmt > mei-respstmt {
   display: block;
   margin-top: 1em;
@@ -1835,13 +1827,13 @@ mei-filedesc > mei-titlestmt > mei-respstmt {
 
 mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="composer"]::before {
   font-weight: bold;
-  content: '\a' "Composer: ";
+  content: "Composer: ";
   white-space: pre;
 }
 
 mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="encoder"]::before {
   font-weight: bold;
-  content: '\a'"Encoded by: ";
+  content: "Encoded by: ";
   white-space: pre;
 }
 
