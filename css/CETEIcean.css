@@ -1820,13 +1820,11 @@ mei-filedesc > mei-titlestmt > mei-title {
   
 }
 
-mei-filedesc > mei-titlestmt > mei-title >  {
+mei-filedesc > mei-titlestmt > mei-title > mei-title[type-"subtitle"]  {
   color: #20D89A;
   display: block;
-  font-size: 24pt;
-  font-family: Helvetica;
-  text-decoration: underline #20D89A;
-  
+  font-size: 18pt;
+  font-family: Helvetica;   
 }
 
 mei-filedesc > mei-titlestmt > mei-respstmt {
