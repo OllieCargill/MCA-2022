@@ -7,8 +7,10 @@
          <titleStmt>
               <title>Ave Maris Stella</title>
             <title type="subordinate">Medieval Hymn</title>
-            <persName role="author">Author: Unknown, however attributed to several people: Bernard of Clairvaux, Saint Venantius Fortunatus, Hermannus Contractus</persName>
-            <composer>Composer: Developed by many composers from the pre-baroque period to the present day.</composer>
+            <respStmt>
+            <persName role="author">Unknown, however attributed to several people: Bernard of Clairvaux, Saint Venantius Fortunatus, Hermannus Contractus</persName>
+            <persName role="composer">Developed by many composers from the pre-baroque period to the present day.</persName>
+            </respStmt>
             <workList>
           <creation>
             <date>9th Century</date>
