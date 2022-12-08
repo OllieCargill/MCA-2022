@@ -7,59 +7,7 @@
          <titleStmt>
               <title>Ave Maris Stella</title>
             <title type="subordinate">Medieval Hymn</title>
-            <respStmt>
-            <persName role="author">Unknown, however attributed to several people: Bernard of Clairvaux, Saint Venantius Fortunatus, Hermannus Contractus</persName>
-            <persName role="composer">Developed by many composers from the pre-baroque period to the present day.</persName>
-            </respStmt>
-            <workList>
-          <creation>
-            <date>9th Century</date>
-             <address>
-                <addrLine>
-            <geogName>Vienna / St. Gallen</geogName>
-              </addrLine>
-               </address>
-         </creation>
-      </workList>
-         <biblList>
-         <bibl>
-         <genre>Genre: Medieval Plainchant Hymn</genre>
-            </bibl>
-         </biblList>
-            <respStmt>
-               <resp>Encoded by:</resp>
-               <name>Ollie Cargill</name>
-                <eventList>
-            <address>
-               <addrLine>
-                  <geogName>Glasgow, Scotland</geogName>
-               </addrLine>
-            </address>
-            </eventList>
-               <pubStmt><date isodate="2022-11-04" type="encoding-date">2022-11-04</date>
-            </pubStmt>
-            </respStmt>
-         <editionStmt>
-            <respStmt>
-               <resp>Published on:</resp>
-               <name>IMSLP.org</name>
-               <resp>Arranged by:</resp>
-                  <arranger>John Dunstaple</arranger>
-            </respStmt>
-            <edition>For soprano and 2 tenors</edition>
-            <date>2012-04-12</date>
-          </editionStmt>
          </titleStmt>
-         <pubStmt>
-            <availibility>
-               <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/3.0/" authority="Creative Commons"> 
-                  Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</useRestrict>
-            </availibility>
-         </pubStmt>
-         <seriesStmt>
-            <tilte>Ollie Cargill's MCA 2022 portfolio </title>
-         </seriesStmt>
-      </fileDesc>
       <encodingDesc xml:id="encodingdesc-1m9iqon">
          <appInfo xml:id="appinfo-14dy10i">
             <application xml:id="application-1s276mb" isodate="2022-11-23T19:17:50" version="3.14.0-dev-c59e246">
