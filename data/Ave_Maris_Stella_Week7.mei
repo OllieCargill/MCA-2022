@@ -25,7 +25,13 @@
          <bibl>
          <genre>Medieval Plainchant Hymn</genre>
             </bibl>
-         </biblList>           
+         </biblList>   
+             <pubStmt>
+            <availibility>
+               <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/3.0/" authority="Creative Commons"> 
+                  Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</useRestrict>
+            </availibility>
+         </pubStmt>
          </titleStmt>
          <editionStmt>
             <title>Ave Maris Stella</title>
