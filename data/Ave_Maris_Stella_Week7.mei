@@ -34,9 +34,9 @@
                </addrLine>
             </address>
             </eventList>
-            </respStmt>
-            <pubStmt><date isodate="2022-11-04" type="encoding-date">2022-11-04</date>
+               <pubStmt><date isodate="2022-11-04" type="encoding-date">2022-11-04</date>
             </pubStmt>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <respStmt>
