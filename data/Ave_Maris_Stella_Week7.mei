@@ -50,12 +50,16 @@
       </encodingDesc>
       <workList>
          <title>Ave Maris Stella</title>
-         <genre>Medieval Plainchant Hymn</genre>
-         <creation>
+          <creation>
             <date>9th Century</date>
             <geogName>Vienna / St. Gallen</geogName>
          </creation>
       </workList>
+         <biblList>
+         <bibl>
+         <genre>Medieval Plainchant Hymn</genre>
+            </bibl>
+         </biblList>
    </meiHead>
    <music>
       <body>
