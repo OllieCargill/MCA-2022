@@ -55,15 +55,15 @@
             </availibility>
          </pubStmt>
          <seriesStmt>
-            <title> Ollie Cargill's MCA 2022 portfolio </title>
+            <series>Ollie Cargill's MCA 2022 portfolio </series>
          </seriesStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-1m9iqon">
          <appInfo xml:id="appinfo-14dy10i">
             <application xml:id="application-1s276mb" isodate="2022-11-23T19:17:50" version="3.14.0-dev-c59e246">
                <name xml:id="name-12ca3w6">Verovio</name>
-               <p xml:id="p-27xc6h">Transcoded from MusicXML</p>
-               <projectDesc> <p>This piece was encoded for Ollie Cargill's Music Curation and Analytics GitHub dataset as part of his university coursework</p> </projectDesc>       
+               <p xml:id="p-27xc6h">Transcoded from MusicXML</p>  
+               <projectDesc><p>This piece was encoded for Ollie Cargill's Music Curation and Analytics GitHub dataset as part of his university coursework</p></projectDesc>
             </application>
          </appInfo>
       </encodingDesc>
