@@ -24,9 +24,7 @@
 
 <img src="metadataprecss.png">
 
-* Here is the link to the Verovio render that has been formatted using CSS:
-
-<a href="https://olliecargill.github.io/MCA-2022/myMeta.html">Styled metadata.</a>
+* Here is the link to the Verovio render that has been formatted using CSS: <a href="https://olliecargill.github.io/MCA-2022/myMeta.html">Styled metadata.</a>
 
 * Here is a link to the [CETEIcean.css file.](https://github.com/OllieCargill/MCA-2022/blob/master/css/CETEIcean.css)
 
