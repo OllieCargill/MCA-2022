@@ -1835,6 +1835,12 @@ mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="composer"]::befo
   white-space: pre;
 }
 
+mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="author"]::before {
+  font-weight: bold;
+  content: "Written by: ";
+  white-space: pre;
+}
+
 mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="encoder"]::before {
   font-weight: bold;
   content: "Encoded by: ";
