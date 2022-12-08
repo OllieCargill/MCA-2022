@@ -6,10 +6,22 @@
       <fileDesc>
          <titleStmt>
               <title>Ave Maris Stella</title>
-            <title type="subtitle">Medieval Hymn</title>
-            <author>Unknown, however attributed to several people: Bernard of Clairvaux, Saint Venantius Fortunatus, Hermannus Contractus</author>
-            <composer>Developed by many composers from the pre-baroque period to the present day.</composer>
+            <title type="subordinate">Medieval Hymn</title>
             <respStmt>
+            <persName role="author">Unknown, however attributed to several people: Bernard of Clairvaux, Saint Venantius Fortunatus, Hermannus Contractus</persName>
+            <persName role="composer">Developed by many composers from the pre-baroque period to the present day.</persName>
+            </respStmt>
+            <workList>
+               <creation>
+                  <date>9th Century</date>
+                  <address>
+                     <addrLine>
+                        <geogName>Vienna / St. Gallen</geogName>
+                        </addrLine>
+                  </address>
+               </creation>
+            </workList>
+         <respStmt>           
                <resp>Encoded by</resp>
                <name>Ollie Cargill</name>
             </respStmt>
