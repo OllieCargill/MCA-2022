@@ -14,7 +14,6 @@
 
 <img src="creativecommons.png">
 
-
 * Here is the link to the updated [MEI file.](https://github.com/OllieCargill/MCA-2022/blob/master/data/Ave_Maris_Stella_Week7.mei)
 
 <hr>
@@ -25,9 +24,13 @@
 
 <img src="metadataprecss.png">
 
-* Here is the Verovio render that has been formatted using CSS:
+* Here is the link to the Verovio render that has been formatted using CSS:
+
+<a href="https://olliecargill.github.io/MCA-2022/myMeta.html"></a>
 
 * Here is a link to the [CETEIcean.css file.](https://github.com/OllieCargill/MCA-2022/blob/master/css/CETEIcean.css)
+
+* I struggled with getting the metadata to show exactly how I wanted it to on the page, however the data is still readable and makes sense. I styled the title and subtitle with some CSS elements like <i>color</i> and <i>outline-style</i>. 
 
 <hr>
 
