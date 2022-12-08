@@ -25,19 +25,7 @@
          <bibl>
          <genre>Medieval Plainchant Hymn</genre>
             </bibl>
-         </biblList>
-         <respStmt>           
-               <persName role="encoder">Ollie Cargill</persName>
-            </respStmt>
-            <pubStmt><date isodate="2022-11-04" type="encoding-date">2022-11-04</date>
-            <publisher></publisher>
-            <address>
-               <addrLine>
-                  <geogName>Glasgow, Scotland</geogName>
-               </addrLine>
-            </address>
-            <date></date>
-         </pubStmt>
+         </biblList>           
          </titleStmt>
          <editionStmt>
             <title>Ave Maris Stella</title>
@@ -49,6 +37,18 @@
                <name>IMSLP.org</name>
             </respStmt>
          </editionStmt>
+         <respStmt>
+             <persName role="encoder">Ollie Cargill</persName>
+            </respStmt>
+            <pubStmt><date isodate="2022-11-04" type="encoding-date">2022-11-04</date>
+            <publisher></publisher>
+            <address>
+               <addrLine>
+                  <geogName>Glasgow, Scotland</geogName>
+               </addrLine>
+            </address>
+            <date></date>
+         </pubStmt>
          <seriesStmt>
             <title> Ollie Cargill's MCA 2022 portfolio </title>
          </seriesStmt>
