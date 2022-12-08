@@ -8,7 +8,7 @@
               <title>Ave Maris Stella</title>
             <title type="subordinate">Medieval Hymn</title>
             <respStmt>
-            <persName role="author">Unknown, however attributed to several people: Bernard of Clairvaux, Saint Venantius Fortunatus, Hermannus Contractus</persName>
+            <persName role="author">Bernard of Clairvaux, Saint Venantius Fortunatus, Hermannus Contractus</persName>
             <persName role="composer">Developed by many composers from the pre-baroque period to the present day.</persName>
             </respStmt>
             <workList>
@@ -23,12 +23,21 @@
             </workList>
             <biblList>
          <bibl>
-         <genre>Genre: Medieval Plainchant Hymn</genre>
+         <genre>Medieval Plainchant Hymn</genre>
             </bibl>
          </biblList>
          <respStmt>           
                <persName role="encoder">Ollie Cargill</persName>
             </respStmt>
+            <pubStmt><date isodate="2022-11-04" type="encoding-date">2022-11-04</date>
+            <publisher></publisher>
+            <address>
+               <addrLine>
+                  <geogName>Glasgow, Scotland</geogName>
+               </addrLine>
+            </address>
+            <date></date>
+         </pubStmt>
          </titleStmt>
          <editionStmt>
             <title>Ave Maris Stella</title>
@@ -40,15 +49,6 @@
                <name>IMSLP.org</name>
             </respStmt>
          </editionStmt>
-         <pubStmt><date isodate="2022-11-04" type="encoding-date">2022-11-04</date>
-            <publisher>Ollie Cargill</publisher>
-            <address>
-               <addrLine>
-                  <geogName>Glasgow, Scotland</geogName>
-               </addrLine>
-            </address>
-            <date>2022</date>
-         </pubStmt>
          <seriesStmt>
             <title> Ollie Cargill's MCA 2022 portfolio </title>
          </seriesStmt>
