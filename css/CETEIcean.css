@@ -1809,7 +1809,7 @@ mei-title[type="subordinate"] {
   font-size: 18pt;
   font-variant-caps: small-caps;
   margin-top: -0.1em;
-  color: #26E62D
+  color: #26E62D;
   
 }
 
@@ -1866,7 +1866,7 @@ mei-filedesc > mei-pubstmt > mei-date::after {
   white-space: pre;
 }
 
-mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
+mei-filedesc > mei-titlestmt > mei-availability > mei-userestrict {
   font-style: italic;
   display: block;
   margin-top: 0.5em;
