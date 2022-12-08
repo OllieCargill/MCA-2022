@@ -17,11 +17,13 @@
          <editionStmt>
             <title>Ave Maris Stella</title>
             <edition>For soprano and 2 tenors</edition>
-            <arranger>John Dunstaple</arranger>
-            <date>12/04/2012</date>
+            <pubStmt><date isodate="2012-04-12" type="publishing-date">2012-04-12</date>
+            </pubStmt>
             <respStmt>
-               <resp>Published on</resp>
+               <resp>Published on:</resp>
                <name>IMSLP.org</name>
+               <resp>Arranged by:</resp>
+                  <arranger>John Dunstaple</arranger>
             </respStmt>
          </editionStmt>
          <pubStmt><date isodate="2022-11-04" type="encoding-date">2022-11-04</date>
