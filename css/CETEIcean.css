@@ -1808,7 +1808,7 @@ tei-zone {
 mei-title[type="subordinate"] {
   font-size: 18pt;
   font-variant-caps: small-caps;
-  margin-top: -0.3em;
+  margin-top: -0.1em;
   color: #26E62D
   
 }
@@ -1819,6 +1819,8 @@ mei-filedesc > mei-titlestmt > mei-title {
   font-size: 24pt;
   font-family: Helvetica;
   text-decoration: underline #20D89A;
+  outline-style: double;
+  outline-colour: ##29E8E8
   
 }
 
