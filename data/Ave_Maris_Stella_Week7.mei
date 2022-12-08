@@ -21,6 +21,11 @@
                   </address>
                </creation>
             </workList>
+            <biblList>
+         <bibl>
+         <genre>Genre: Medieval Plainchant Hymn</genre>
+            </bibl>
+         </biblList>
          <respStmt>           
                <resp>Encoded by</resp>
                <name>Ollie Cargill</name>
