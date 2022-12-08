@@ -28,7 +28,7 @@
 
 * Here is a link to the [CETEIcean.css file.](https://github.com/OllieCargill/MCA-2022/blob/master/css/CETEIcean.css)
 
-* I struggled with getting the metadata to show exactly how I wanted it to on the page, however the data is still readable and makes sense. I styled the title and subtitle with some CSS elements like <i>color</i> and <i>outline-style</i>. I used <i>persName</i> to display "Written by" and "Composed" on the render so the reader would be aware of what the information means.
+* I struggled with getting the metadata to show exactly how I wanted it to on the page, however the data is still readable and makes sense. I styled the title and subtitle with some CSS elements like <i>color</i> and <i>outline-style</i>. I used <i>persName</i> to display "Written by" and "Composed" on the render so the reader would be aware of what the information means. I would have liked the other metadata to display in a more ordered and readble manner, however I struggled to make this work.
 
 <hr>
 
