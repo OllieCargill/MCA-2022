@@ -12,12 +12,16 @@
             <workList>
           <creation>
             <date>9th Century</date>
+             <address>
+                <addrLine>
             <geogName>Vienna / St. Gallen</geogName>
+              </addrLine>
+               </address>
          </creation>
       </workList>
          <biblList>
          <bibl>
-         <genre>Medieval Plainchant Hymn</genre>
+         <genre>Genre: Medieval Plainchant Hymn</genre>
             </bibl>
          </biblList>
             <respStmt>
@@ -31,18 +35,20 @@
             </address>
             </eventList>
             </respStmt>
+            <pubStmt><date isodate="2022-11-04" type="encoding-date">2022-11-04</date>
+            </pubStmt>
          </titleStmt>
          <editionStmt>
-            <edition>For soprano and 2 tenors</edition>
-            <date>2012-04-12</date>
-          </editionStmt>
             <respStmt>
                <resp>Published on:</resp>
                <name>IMSLP.org</name>
                <resp>Arranged by:</resp>
                   <arranger>John Dunstaple</arranger>
             </respStmt>
-         <pubStmt><date isodate="2022-11-04" type="encoding-date">2022-11-04</date>
+            <edition>For soprano and 2 tenors</edition>
+            <date>2012-04-12</date>
+          </editionStmt>
+         <pubStmt>
             <availibility>
                <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/3.0/" authority="Creative Commons"> 
                   Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</useRestrict>
