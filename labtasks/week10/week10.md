@@ -6,7 +6,7 @@
 
 ### 1. Similarity
 
-* For this week's task I generated a similarity scatterplot and similarity matrix of 10 tracks using Jupyter Notebooks. I replaced the three country tracks with the medieval samples I used in week 8's task. Here are the similiarity matrixes:
+* For this week's task I generated a similarity scatterplot and similarity matrix of 10 tracks using Jupyter Notebooks. I replaced the three country tracks with the medieval samples I used in week 8's task. I also changed the lable on the scatterplot so that the key was correct. Here are the similiarity matrixes:
 
 <table class ="screenshots">
   <tr>
@@ -21,7 +21,7 @@
   </tr>
   </table>
       
-* Track 7 represents <strong>Sumer is Icunmin In</strong>, track 8 represents <strong>De Triste Cuer</strong> and track 9 represents <strong>Douce Dame Jolie</strong>. From this we can see...
+* Track 7 represents <strong>Sumer is Icunmin In</strong>, track 8 represents <strong>De Triste Cuer</strong> and track 9 represents <strong>Douce Dame Jolie</strong>. 
 
 
 <hr>
@@ -40,8 +40,6 @@
     <td class="text-table"> <img src="avemarisstellaweek10midi-1.png"></td>
   </tr>
   </table>
-
-* A comparison of the the original score and the transcribed score reveals many things...
        
 <hr>
 
