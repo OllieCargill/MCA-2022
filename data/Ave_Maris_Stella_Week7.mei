@@ -7,33 +7,42 @@
          <titleStmt>
               <title>Ave Maris Stella</title>
             <title type="subtitle">Medieval Hymn</title>
-            <author>Unknown, however attributed to several people: Bernard of Clairvaux, Saint Venantius Fortunatus, Hermannus Contractus</author>
-            <composer>Developed by many composers from the pre-baroque period to the present day.</composer>
+            <author>Author: Unknown, however attributed to several people: Bernard of Clairvaux, Saint Venantius Fortunatus, Hermannus Contractus</author>
+            <composer>Composer: Developed by many composers from the pre-baroque period to the present day.</composer>
+            <workList>
+          <creation>
+            <date>9th Century</date>
+            <geogName>Vienna / St. Gallen</geogName>
+         </creation>
+      </workList>
+         <biblList>
+         <bibl>
+         <genre>Medieval Plainchant Hymn</genre>
+            </bibl>
+         </biblList>
             <respStmt>
                <resp>Encoded by</resp>
                <name>Ollie Cargill</name>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <title>Ave Maris Stella</title>
-            <edition>For soprano and 2 tenors</edition>
-            <pubStmt><date isodate="2012-04-12" type="publishing-date">2012-04-12</date>
-            </pubStmt>
-            <respStmt>
-               <resp>Published on:</resp>
-               <name>IMSLP.org</name>
-               <resp>Arranged by:</resp>
-                  <arranger>John Dunstaple</arranger>
-            </respStmt>
-         </editionStmt>
-         <pubStmt><date isodate="2022-11-04" type="encoding-date">2022-11-04</date>
-            <eventList>
+                <eventList>
             <address>
                <addrLine>
                   <geogName>Glasgow, Scotland</geogName>
                </addrLine>
             </address>
             </eventList>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>For soprano and 2 tenors</edition>
+            <date>2012-04-12</date>
+          </editionStmt>
+            <respStmt>
+               <resp>Published on:</resp>
+               <name>IMSLP.org</name>
+               <resp>Arranged by:</resp>
+                  <arranger>John Dunstaple</arranger>
+            </respStmt>
+         <pubStmt><date isodate="2022-11-04" type="encoding-date">2022-11-04</date>
             <availibility>
                <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/3.0/" authority="Creative Commons"> 
                   Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</useRestrict>
@@ -52,18 +61,6 @@
             </application>
          </appInfo>
       </encodingDesc>
-      <workList>
-         <title>Ave Maris Stella</title>
-          <creation>
-            <date>9th Century</date>
-            <geogName>Vienna / St. Gallen</geogName>
-         </creation>
-      </workList>
-         <biblList>
-         <bibl>
-         <genre>Medieval Plainchant Hymn</genre>
-            </bibl>
-         </biblList>
    </meiHead>
    <music>
       <body>
