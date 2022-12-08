@@ -1842,7 +1842,7 @@ mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="author"]::before
   white-space: pre;
 }
 
-mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="encoder"]::before {
+mei-filedesc > mei-pubstmt> mei-respstmt > mei-persname[role="encoder"]::before {
   font-weight: bold;
   content: "Encoded by: ";
   white-space: pre;
